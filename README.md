@@ -11,7 +11,6 @@
 
 - **Languages:** C, Python, Dart (learning)
 - **Mobile Dev:** Flutter (learning)
-- **Electronics:** Arduino, Proteus, LTSpice
 - **Tools:** Git, GitHub, VS Code, Android Studio
 
 ---
