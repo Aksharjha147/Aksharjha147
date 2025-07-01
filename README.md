@@ -1,41 +1,55 @@
-### 👋 Hi there, I'm Akshar Jha!
+### Hi, I'm Akshar Jha! 👋  
+🚀 Aspiring Flutter Developer | ECE Undergrad | DSA Learner
 
-🎓 I'm a 2nd-year Electronics and Communication Engineering student at **MMMUT, Gorakhpur**.  
-🏡 From **Ujjain**, completed 10th (84%) & 12th (78%) from **Kendriya Vidyalaya, Ujjain**  
-💡 Currently learning **Flutter** and **Dart** for cross-platform mobile development  
-    UI/UX, and mobile app development  
-
----
-
-### 🛠️ Skills & Tools
-
-- **Languages:** C, Python, Dart (learning)
-- **Mobile Dev:** Flutter (learning)
-- **Tools:** Git, GitHub, VS Code, Android Studio
+![Profile Views](https://komarev.com/ghpvc/?username=Aksharjha147&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/Aksharjha147?label=Followers&style=social)
 
 ---
 
-### 🚀 Projects
+### 🔥 Technologies I Work With
 
-*Coming soon – working on a Flutter app for college use!*
+#### 📌 Backend  
+- C (Fundamentals), Python (Basics)  
+- Learning APIs, Logic Building  
+
+#### 📌 Frontend  
+- Flutter, Dart  
+- UI/UX fundamentals  
+- Android Studio, VS Code  
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 What I Offer
 
-![Akshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aksharjha147&show_icons=true&theme=tokyonight)
+✅ Frontend Development: Beautiful and responsive UIs using Flutter  
+✅ DSA: Practicing data structures and algorithms for strong foundations  
+✅ Learning in Public: Sharing progress and projects openly on GitHub  
+✅ Problem-Solving Mindset: Approach every bug as a challenge  
+
+---
+
+### 🚀 My Approach
+
+🧩 Curious by Nature: Always excited to explore how tech works  
+📚 Self-Learner: Picking up skills via docs, courses, and practice  
+🤝 Collaborative Spirit: Open to teamwork, hackathons & collabs  
+
+---
+
+### 📈 GitHub Stats
+
+![Akshar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aksharjha147&theme=tokyonight)  
+![Akshar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aksharjha147&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharjha147&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with Me
+### 💬 Let's Connect!
 
-- 📧 Email: *youremail@example.com*  
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)
+- 🔗 [LinkedIn: Coming Soon](https://linkedin.com)  
+- 📧 Email: akshar@example.com *(replace with real one)*  
+- 🌍 Portfolio: Coming Soon...
 
 ---
 
-*Thanks for stopping by! I'm just getting started 🚀*
-
-
-
+*Learning one day at a time — follow my journey 🚀*
