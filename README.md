@@ -46,8 +46,8 @@
 
 ### 💬 Let's Connect!
 
-- 🔗 [LinkedIn: Coming Soon](https://linkedin.com)  
-- 📧 Email: akshar@example.com *(replace with real one)*  
+- 🔗 [LinkedIn:   
+- 📧 Email: aksharjha65@gmail.com  
 - 🌍 Portfolio: Coming Soon...
 
 ---
