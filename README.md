@@ -1,5 +1,5 @@
 ### Hi, I'm Akshar Jha! 👋  
-🚀 Aspiring Flutter Developer | ECE Undergrad | DSA Learner
+🚀 Aspiring Flutter Developer | ECE Undergrad | DSA Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aksharjha147&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/Aksharjha147?label=Followers&style=social)
