@@ -46,7 +46,7 @@
 
 ### 💬 Let's Connect!
 
-- 🔗 LinkedIn:https://www.linkedin.com/in/akshar-jha-284532329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   
+- 🔗 [LinkedIn: Akshar Jha](https://www.linkedin.com/in/akshar-jha-284532329)  
 - 📧 Email: aksharjha65@gmail.com  
 - 🌍 Portfolio: Coming Soon...
 
