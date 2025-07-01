@@ -3,7 +3,7 @@
 🎓 I'm a 2nd-year Electronics and Communication Engineering student at **MMMUT, Gorakhpur**.  
 🏡 From **Ujjain**, completed 10th (84%) & 12th (78%) from **Kendriya Vidyalaya, Ujjain**  
 💡 Currently learning **Flutter** and **Dart** for cross-platform mobile development  
-UI/UX, and mobile app development  
+    UI/UX, and mobile app development  
 
 ---
 
